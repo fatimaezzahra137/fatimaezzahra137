@@ -2,8 +2,6 @@
 
 ### Data Analyst | Développeuse passionnée par la structure des données et l'optimisation
 
-![Fatima Ezzahra BARRADI](https://github.com/fatimaezzahra137.png?size=200)
-
 <p align="left">
   <img src="https://img.shields.io/badge/JobInTech-Graduate-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Supemir-Casablanca-red?style=flat-square" />
@@ -20,11 +18,21 @@
 
 ### 🚀 À propos de moi
 
-[cite_start]Développeuse passionnée par la structure des données et l'optimisation, j'allie la logique mathématique au développement informatique[cite: 26]. [cite_start]Je me spécialise actuellement dans l'analyse de données, l'optimisation SQL et l'intégration de l'IA Générative[cite: 24, 28].
+Développeuse passionnée par la structure des données et l'optimisation, j'allie la logique mathématique au développement informatique. Je me spécialise actuellement dans l'analyse de données, l'optimisation SQL et l'intégration de l'IA Générative.
 
-- [cite_start]📍 Basée à **Casablanca, Maroc**[cite: 9].
-- [cite_start]🎓 Diplômée d'une **Licence en Mathématiques et Informatique**[cite: 42].
-- [cite_start]🤖 Expertise en **Robotique et IA**[cite: 30, 36, 38].
+* 📍 Basée à **Casablanca, Maroc**.
+* 🎓 Diplômée d'une **Licence en Mathématiques et Informatique**.
+* 🤖 Expertise en **Robotique et IA**.
+* 🌐 Découvrez mon univers : **[Mon Portfolio Personnel](https://my-portfolio-232o5ssfc-fatimaezzahra137s-projects.vercel.app/)**
+
+---
+
+### 💼 Expériences Professionnelles & Projets
+
+* **Optimisation SQL/PLSQL & IA Générative** — Stage chez Proximity Management Institute (Février 2026) : Optimisation Oracle et intégration d'IA.
+* **Création de Bases de Données** — Stage chez HOUSSNI JOB (Octobre 2024) : Conception de bases de données pour la gestion de CV.
+* **Projet de Fin d'Études (PFE) IoT & Arduino** — Stage (Avril 2024) : Développement de robots logiciels pour une application web.
+* **Enseignement** — Professeure en Informatique et Robotique au Groupe Scolaire Khawater (Septembre 2024).
 
 ---
 
@@ -48,10 +56,11 @@
 
 ### 📜 Certifications & Éducation
 
-* [cite_start]**Formation JobInTech (SQL/PLSQL)** — Supemir Académie (2026)[cite: 32].
-* [cite_start]**Formation IA Générative** — Gomycode (2024)[cite: 38, 40].
-* [cite_start]**Licence en Mathématiques et Informatique** — FSB Casablanca (2024/2025)[cite: 42, 44].
-* [cite_start]**Langue Allemande** — Elite Deutsch Sprachezentrum[cite: 33, 34].
+* **Formation JobInTech (SQL/PLSQL)** — Supemir Académie (2026).
+* **Formation IA Générative** — Gomycode (2024).
+* **Licence Fondamentale Mathématiques et Informatique** — FSB Casablanca (2024/2025).
+* **Cycle de l'Emploi et l'Entrepreneuriat (C4EE)** — Université Hassan II (Juillet 2024).
+* **Langue Allemande** — Elite Deutsch Sprachezentrum.
 
 ---
 
@@ -60,6 +69,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/fati-barradi-1b8776312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-232o5ssfc-fatimaezzahra137s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2575fc?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:fbaradi52@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
